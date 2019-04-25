@@ -1,0 +1,32 @@
+#head{
+    min-height: 600px;
+    padding-bottom: 10px;
+    text-align: center;
+    position: relative;
+    background: url("surface.jpg") center center/cover no-repeat;
+    background-image: url("surface.jpg");
+}
+button{
+    border-radius: 20px;
+    padding: 10px 20px 10px 20px;
+    border: none;
+    font-size: 11px;
+}
+#p1{
+    font-weight: bold;
+}
+.dark{
+    color: white;
+}
+span{
+    font-weight: bold;
+}
+#div3{
+    background-color: #f8c667;
+}
+h3,h6{
+    font-weight: bold;
+}
+.card-body{
+    background-color: #f8c667;
+}
